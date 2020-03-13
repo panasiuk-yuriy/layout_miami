@@ -23,7 +23,7 @@ a {
 .logo {
   width: 115px;
   height: 76px;
-  background-image: url("/images/logo.png");
+  background-image: url("../images/logo.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
@@ -32,7 +32,7 @@ a {
 
 .header {
   height: 700px;
-  background-image: url("/images/header2.jpg");
+  background-image: url("../images/header2.jpg");
   background-size: cover;
   background-position: center; }
   .header__container {
@@ -101,14 +101,14 @@ a {
   .header__toggle_button {
     position: relative;
     display: none;
-    background-image: url("/images/Vector.png");
+    background-image: url("../images/Vector.png");
     background-repeat: no-repeat;
     background-position: center;
     width: 18px;
     height: 12px; }
   .header__phone_button {
     display: none;
-    background-image: url("/images/phone.png");
+    background-image: url("../images/phone.png");
     background-repeat: no-repeat;
     background-position: center;
     width: 18px;
@@ -496,7 +496,7 @@ a {
   position: sticky;
   bottom: 0;
   z-index: -1;
-  background-image: url(../images/footer.jpg);
+  background-image: url("../images/footer.jpg");
   background-size: cover;
   background-position: center; }
   .footer__logo {
